@@ -53,6 +53,13 @@ PrometheusのNode ExporterとOpenTelemetry、Fluent Bitをサーバーにイン�
 
 <img width="400" alt="ansible-observablity.drawio.png" src="ansible-observablity.drawio.png">
 
+## Dockerfile
+
+### ・[ecs-observablity](https://github.com/istone-you/ecs-observablity)
+OpenTelemetryとFluent BitをECSで使用するためのDockerfileです。
+
+<img width="300" alt="ecs-observablity.drawio.png" src="ecs-observablity.drawio.png">
+
 ## その他
 
 ### ・[RecordApp](https://github.com/istone-you/RecordApp)
