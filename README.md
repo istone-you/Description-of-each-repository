@@ -4,7 +4,6 @@
 
 ### ・[my-amplify-website](https://github.com/istone-you/my-amplify-website)
 React.jsをベースとした静的サイトジェネレーターであるGatsby.jsを使ったWebサイトです。
-AWS Amplifyにデプロイしています。
 
 <img width="200" alt="React-Gatsby.jpg" src="React-Gatsby.jpg">
 
@@ -23,7 +22,7 @@ MERN(MongoDB,Express.js,React.js,Node.js)スタックを利用したメモアプ
 ## Terraform
 
 ### ・[my-amplify-website-terraform](https://github.com/istone-you/my-amplify-website-terraform)
-上記[my-amplify-website](https://github.com/istone-you/my-amplify-website)の構成を構築するTerraformファイルです。
+上記[my-amplify-website](https://github.com/istone-you/my-amplify-website)をAmplifyを使って構築するTerraformファイルです。
 
 <img width="500" alt="terraform.jpg" src="./terraform.jpg">
 
