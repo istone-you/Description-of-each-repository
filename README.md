@@ -48,14 +48,14 @@ AWS Cost and Usage Reportの結果をAmazon S3に保存。そのデータをAWS 
 
 ## Ansible
 
-### ・[observablity-ansible](https://github.com/istone-you/observablity-ansible)
+### ・[observability-ansible](https://github.com/istone-you/observablity-ansible)
 PrometheusのNode ExporterとOpenTelemetry、Fluent Bitをサーバーにインストールして、メトリクスとログをそれぞれPrometheusとLokiに送信する設定をするAnsibleのPlaybookです。
 
 <img width="400" alt="ansible-observablity.drawio.png" src="ansible-observablity.drawio.png">
 
 ## Dockerfile
 
-### ・[ecs-observablity](https://github.com/istone-you/ecs-observablity)
+### ・[observability-ecs](https://github.com/istone-you/ecs-observablity)
 OpenTelemetryとFluent BitをECSで使用するためのDockerfileです。
 
 <img width="300" alt="ecs-observablity.drawio.png" src="ecs-observablity.drawio.png">
