@@ -53,6 +53,12 @@ PrometheusのNode ExporterとOpenTelemetry、Fluent Bitをサーバーにイン�
 
 <img width="400" alt="ansible-observability.drawio.png" src="ansible-observability.drawio.png">
 
+### ・[convenient-ami-pakcer-ansible](https://github.com/istone-you/convenient-ami-pakcer-ansible)
+
+PackerとAnsibleを使って、自分がよく使うツールが予め用意されたEC2のAMIを作成するファイルです。
+
+<img width="400" alt="packer-ansible.drawio.png" src="packer-ansible.drawio.png">
+
 ## Dockerfile
 
 ### ・[observability-ecs](https://github.com/istone-you/observability-ecs)
