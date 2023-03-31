@@ -26,6 +26,11 @@ MERN(MongoDB,Express.js,React.js,Node.js)スタックを利用したメモアプ
 
 <img width="600" alt="ECSApp.drawio.png" src="ECSApp.drawio.png">
 
+## [aws-cost-mail-serverless](https://github.com/istone-you/aws-cost-mail-serverless)
+利用料金をメールで通知するLambdaを作成する構成を構築するServerless Frameworkのファイルです。
+
+<img width="500" alt="CostMail.drawio.png" src="CostMail.drawio.png">
+
 ## [aws-security-terraform](https://github.com/istone-you/aws-security-terraform)
 AWSのアカウントのセキュリティサービスを設定するTerraformファイルです。
 
