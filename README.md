@@ -34,7 +34,7 @@ MERN(MongoDB,Express.js,React.js,Node.js)スタックを利用したメモアプ
 ## [aws-security-terraform](https://github.com/istone-you/aws-security-terraform)
 AWSのアカウントのセキュリティサービスを設定するTerraformファイルです。
 
-<img width="350" alt="セキュリティ.drawio.png" src="セキュリティ.drawio.png">
+<img width="400" alt="セキュリティ.drawio.png" src="セキュリティ.drawio.png">
 
 ## [aws-cost-terraform](https://github.com/istone-you/aws-cost-terraform)
 AWS Cost and Usage Reportの結果をAmazon S3に保存。そのデータをAWS GlueとAmazon Athenaを使ってクエリする構成を設定するTerraformファイルです。
@@ -44,7 +44,7 @@ AWS Cost and Usage Reportの結果をAmazon S3に保存。そのデータをAWS 
 ## [observablity-ansible](https://github.com/istone-you/observablity-ansible)
 PrometheusのNode ExporterとOpenTelemetry、Fluent Bitをサーバーにインストールして、メトリクスとログをそれぞれPrometheusとLokiに送信する設定をするAnsibleのPlaybookです。
 
-<img width="350" alt="ansible-observablity.drawio.png" src="ansible-observablity.drawio.png">
+<img width="400" alt="ansible-observablity.drawio.png" src="ansible-observablity.drawio.png">
 
 ## [RecordApp](https://github.com/istone-you/RecordApp)
 未経験時に初めて作成したRuby on Railsのアプリです。
