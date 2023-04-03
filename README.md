@@ -57,7 +57,7 @@ PrometheusのNode ExporterとOpenTelemetry、Fluent Bitをサーバーにイン�
 
 PackerとAnsibleを使って、自分がよく使うツールが予め用意されたEC2のAMIを作成するファイルです。
 
-<img width="400" alt="packer-ansible.drawio.png" src="packer-ansible.drawio.png">
+<img width="500" alt="packer-ansible.drawio.png" src="packer-ansible.drawio.png">
 
 ## Dockerfile
 
